@@ -1,18 +1,16 @@
 
-Agile
-=====
+# Agile
 
-Story Points
-------------
+## Story Points
 
-Steps/Levels
-------------
+### Steps/Levels
+
 Ten Levels:
 
 > 1 > 2 > 3 > 4 > 5 > 6 > 7 > 8 > 9 > 10
 
-Fibonacci Numbers
------------------
+### Fibonacci Numbers
+
 ```
 F(n) = F(n-1) + F(n-2)
 Seed:
@@ -30,20 +28,19 @@ Points are based on [Fibonacci Numbers](https://en.wikipedia.org/wiki/Fibonacci_
   - It's a [Complete Sequence](https://en.wikipedia.org/wiki/Complete_sequence) which means Points can be Merged Disgustingly to Construct New Points.
   - Has Same Natural Meaning for Complexity Increase of Points for Tasks: Each subsequent number is the sum of the previous two, which Means every Task with Higher Point is Complex as Two Tasks with Previous Points!
 
-Choose Points: How hard is to Implement a Task?
------------------------------------------------
+### Choose Points: How hard is to Implement a Task?
 
-=== Included Factors: ===
+* Included Factors:
   1. *Complexity*
   2. *Unknowns*
   3. *Effort*
 
-=== Non-Included Factors: ===
+* Non-Included Factors:
   1. *Time*
   2. *Assignee*
 
-Ground Rules
-------------
+### Ground Rules
+
   - `F(6)`: Number `8` is the Common/Middle Point:
     - Everyone in a [Cross-Functional](https://en.wikipedia.org/wiki/Cross-functional_team) Team can Do this!
     - Other Tasks Points are Calculated Compared to this Point.

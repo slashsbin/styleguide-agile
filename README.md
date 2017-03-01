@@ -44,3 +44,38 @@ Points are based on [Fibonacci Numbers](https://en.wikipedia.org/wiki/Fibonacci_
   - `F(6)`: Number `8` is the Common/Middle Point:
     - Everyone in a [Cross-Functional](https://en.wikipedia.org/wiki/Cross-functional_team) Team can Do this!
     - Other Tasks Points are Calculated Compared to this Point.
+
+* * *
+
+## Code Review
+
+### Checklist
+
+  - Code
+    - [ ] Does it Compile?
+    - [ ] Can you spot any runtime errors just by looking at code?
+    - [ ] Is the feature/bugfix complete?
+    - [ ] Is this a good solution?
+    - [ ] Does it introduce any security holes?
+    - [ ] Is the code efficent?
+    - [ ] Is it logically correct?
+    - [ ] How does it affect the rest of the system?
+    - [ ] Is it within scope?
+    - [ ] Are there any code style issues?
+    - [ ] Is the code readable?
+    - [ ] Does it have good and enough documentation?
+  - Automated testing
+    - [ ] Does it need tests?
+    - [ ] Does it have tests?
+    - [ ] Are tests logically correct?
+    - [ ] Are tests simple, easy to read and debug?
+    - [ ] Are tests testing the right thing?
+    - [ ] Are tests testing the edge cases?
+  - Manual testing
+    - [ ] Can you run the code?
+    - [ ] Can you follow through several test scenarios?
+    - [ ] Is the rest of the system looking/working fine?
+    - [ ] Can you break it?
+
+##### References
+  - https://ana-balica.github.io/2017/02/21/code-review-checklist/

@@ -1,4 +1,5 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-hacker
+show_downloads: false
+google_analytics: G-KGK3D44492
 gems:
   - jemoji
-  
